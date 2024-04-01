@@ -2,7 +2,7 @@ const { Model, DataTypes } = require('sequelize');
 const sequelize = require('../config/connection');
 // const { Blog } = require('./models');
 
-// Create Project model and datatypes, including the user_id foreign key.
+// Create Blog model and datatypes, including the user_id foreign key.
 class Blog extends Model {}
 
 Blog.init(
