@@ -1,7 +1,0 @@
-[
-    {
-        "name": "Why MVC is so important",
-        "description": "MVC allows developers to maintain a true separation of concerns, well beyond the separation of the view from the model. This separation of concerns allows developers to focus on one aspect of the application at a time, which can make the application easier to develop and maintain.",
-        "date": "2020-01-01"
-    }
-]
